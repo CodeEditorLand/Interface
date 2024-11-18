@@ -31,7 +31,7 @@
 	},
 	"dependencies": {
 		"@codeeditorland/common": "0.0.6",
-		"@modular-forms/solid": "0.24.1",
+		"@modular-forms/solid": "0.25.0",
 		"@solid-primitives/event-listener": "2.3.3",
 		"@solid-primitives/websocket": "1.2.2",
 		"@types/store": "2.0.5",
