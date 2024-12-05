@@ -47,6 +47,6 @@
 		"zod": "3.23.8"
 	},
 	"devDependencies": {
-		"@playform/build": "0.1.9"
+		"@playform/build": "0.2.0"
 	}
 }
